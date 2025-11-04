@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Özge👋!</h1>
 <p align="center">
-  <i>A passionate full-stack developer
+  <i>A passionate full-stack developer  
 🎓Software Engineering graduate from Eastern Mediterranean University</i>
 </p>
 
@@ -8,9 +8,9 @@
 ----
 
 # 💻 About Me
--🎓 Graduated from EMU with a CGPA of 2.92
--🏆 "Best project award" in graduation project
--💼 Internship at Limak Iskenderun International Port Management Inc.
+*🎓 Graduated from EMU with a CGPA of 2.92  
+*🏆 "Best project award" in graduation project  
+*💼 Internship at Limak Iskenderun International Port Management Inc.
 
 
 ----
@@ -39,7 +39,7 @@
 ---
 
 ### 📩 Let's Connect
-📧 Email: [ozgeegungorduu@gmail.com](mailto:ozgeegungorduu@gmail.com),
+📧 Email: [ozgeegungorduu@gmail.com](mailto:ozgeegungorduu@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/ozge-gungordu/)
 
 ---
