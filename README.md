@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Özge👋!</h1>
 <p align="center">
-  <i>A software engineer who loves turning ideas into real, usable products
-🎓Software Engineering graduate from Eastern Mediterranean University</i>
+  <i>A software engineer who loves turning ideas into real, usable products</i>
+  <i>🎓Software Engineering graduate from Eastern Mediterranean University</i>
 </p>
 
 
