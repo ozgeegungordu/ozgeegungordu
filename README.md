@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Özge👋!</h1>
 <p align="center">
-  <i>A software engineer who loves turning ideas into real, usable products  
+  <i>A software engineer who loves turning ideas into real, usable products<br /> 
     🎓Software Engineering graduate from Eastern Mediterranean University</i>
 </p>
 
@@ -8,10 +8,9 @@
 ----
 
 # 💻 About Me
-*🎓 Graduated from EMU with a CGPA of 2.92  
-*🏆 "Best project award" in graduation project  
-*💼 Internship at Limak Iskenderun International Port Management Inc.
-
+- 🎓 Graduated from EMU with a CGPA of 2.92  
+- 🏆 "Best project award" in graduation project  
+- 💼 Internship at Limak Iskenderun International Port Management Inc.
 
 ----
 
